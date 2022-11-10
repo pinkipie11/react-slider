@@ -1,3 +1,3 @@
-# custom slider in React feat Framer Motion using { useRef, useEffect, useState } hooks
+# custom slider in React feat Framer Motion
 
-React project from from developedbyed yt channel.
+React project from from developedbyed yt channel using { useRef, useEffect, useState } hooks.
